@@ -1,0 +1,8 @@
+setup.py
+autos/__init__.py
+autos/auto.py
+autos/motor.py
+autos.egg-info/PKG-INFO
+autos.egg-info/SOURCES.txt
+autos.egg-info/dependency_links.txt
+autos.egg-info/top_level.txt
